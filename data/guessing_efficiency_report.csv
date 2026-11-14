@@ -1,0 +1,101 @@
+product,questions,correct
+Smartphone,6,True
+Laptop,7,True
+Tablet,6,True
+Smartwatch,7,True
+Television,7,True
+Wireless Mouse,7,True
+Keyboard,7,True
+Headphones,8,True
+Bluetooth Speaker,6,True
+Digital Camera,6,True
+Office Chair,6,True
+Sofa,8,True
+Dining Table,6,True
+Bookshelf,7,True
+Bed,8,True
+Wardrobe,7,True
+Desk,7,True
+Stool,8,True
+Coffee Table,7,True
+Wall Shelf,6,True
+Refrigerator,7,True
+Microwave Oven,7,True
+Electric Kettle,6,True
+Blender,7,True
+Toaster,7,True
+Rice Cooker,7,True
+Air Fryer,7,True
+Coffee Maker,6,True
+Dishwasher,6,True
+Electric Oven,6,True
+Cooking Pot,8,True
+Frying Pan,7,True
+Kitchen Knife,8,True
+Cutting Board,7,True
+Plate,7,True
+Bowl,7,True
+Spoon,6,True
+Fork,6,True
+Whisk,7,True
+Colander,7,True
+Notebook,8,True
+Pen,7,True
+Pencil,7,True
+Eraser,7,True
+Ruler,7,True
+Stapler,6,True
+Paper Clip,7,True
+Highlighter,7,True
+Glue Stick,7,True
+Sticky Notes,6,True
+Hammer,7,True
+Screwdriver,7,True
+Wrench,6,True
+Pliers,7,True
+Hand Saw,6,True
+Power Drill,7,True
+Measuring Tape,7,True
+Spirit Level,8,True
+Utility Knife,7,True
+Paintbrush,8,True
+Backpack,6,True
+Umbrella,6,True
+Sunglasses,6,True
+Wristwatch,6,True
+Wallet,7,True
+Belt,7,True
+Handbag,5,True
+Suitcase,6,True
+Keychain,7,True
+Water Bottle,8,True
+Toothbrush,7,True
+Hairbrush,8,True
+Hair Dryer,6,True
+Electric Shaver,7,True
+Nail Clipper,6,True
+Comb,8,True
+Soap Dispenser,6,True
+Perfume Bottle,7,True
+Hair Straightener,7,True
+Face Mirror,8,True
+Football,7,True
+Basketball,7,True
+Tennis Racket,7,True
+Badminton Racket,6,True
+Dumbbell,7,True
+Yoga Mat,6,True
+Jump Rope,6,True
+Bicycle,6,True
+Helmet,6,True
+Resistance Band,8,True
+Vacuum Cleaner,8,True
+Broom,6,True
+Mop,9,True
+Bucket,9,True
+Laundry Basket,6,True
+Iron,7,True
+Clothes Hanger,6,True
+Trash Bin,6,True
+Flashlight,7,True
+Extension Cord,7,True
